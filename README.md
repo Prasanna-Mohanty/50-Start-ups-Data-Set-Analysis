@@ -2,7 +2,7 @@
 
 This dataset has data collected from New York, California and Florida about 50 business Start-ups. The variables used in the dataset are Profit, R&D spending, Administration Spending, and Marketing Spending. As part of this analysis, we will figure out the attribute which makes the company more profitable.
 
-# Below are the first few columns of the dataset.
+## Below are the first few columns of the dataset.
 
 R&D Spend|	Administration|	Marketing Spend|	State|	Profit
 ---------|----------------|-----------------|---------|------------
